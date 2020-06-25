@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/gitcompare-hooks/static/js/main.7c6e4b66.chunk.js",
+    "main.js.map": "/gitcompare-hooks/static/js/main.7c6e4b66.chunk.js.map",
+    "runtime-main.js": "/gitcompare-hooks/static/js/runtime-main.0eea2f1f.js",
+    "runtime-main.js.map": "/gitcompare-hooks/static/js/runtime-main.0eea2f1f.js.map",
+    "static/css/2.b09600e4.chunk.css": "/gitcompare-hooks/static/css/2.b09600e4.chunk.css",
+    "static/js/2.d750bb99.chunk.js": "/gitcompare-hooks/static/js/2.d750bb99.chunk.js",
+    "static/js/2.d750bb99.chunk.js.map": "/gitcompare-hooks/static/js/2.d750bb99.chunk.js.map",
+    "index.html": "/gitcompare-hooks/index.html",
+    "precache-manifest.759da61049079f8581f4e3da5ee4a829.js": "/gitcompare-hooks/precache-manifest.759da61049079f8581f4e3da5ee4a829.js",
+    "service-worker.js": "/gitcompare-hooks/service-worker.js",
+    "static/css/2.b09600e4.chunk.css.map": "/gitcompare-hooks/static/css/2.b09600e4.chunk.css.map",
+    "static/js/2.d750bb99.chunk.js.LICENSE.txt": "/gitcompare-hooks/static/js/2.d750bb99.chunk.js.LICENSE.txt",
+    "static/media/loaderIcon.svg": "/gitcompare-hooks/static/media/loaderIcon.b6ad0874.svg",
+    "static/media/notifications.css": "/gitcompare-hooks/static/media/notification.c0d3c94c.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0eea2f1f.js",
+    "static/css/2.b09600e4.chunk.css",
+    "static/js/2.d750bb99.chunk.js",
+    "static/js/main.7c6e4b66.chunk.js"
+  ]
+}
