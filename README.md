@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./src/assets/images/logoTitle.png" width="250px"/>
+    <img src="./src/assets/images/logoTitleDark.png" width="250px"/>
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="#computer-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>
 
 ## :computer: Project
 
